@@ -1,0 +1,4 @@
+<?php
+	header("Location: index.php?p=team&id=".$TEAM."");
+	exit();
+?>
